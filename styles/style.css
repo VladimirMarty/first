@@ -112,7 +112,7 @@
                     justify-content: center;
                 }
                 
-                .digits__title {
+                .section__title {
                     width: 60%;
                     position: absolute;
                     text-align: center;
@@ -123,7 +123,7 @@
                     font-weight: 600;
                 }
                 
-                .digits__subtitle {
+                .section__subtitle {
                     width: 60%;
                     text-align: center;
                     margin: 0;
@@ -133,7 +133,7 @@
                     top: 90px;
                 }
                 
-                .digits__table {
+                .table {
                     width: 1100px;
                     margin-top: 125px;
                     position: absolute;
